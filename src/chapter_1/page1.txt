@@ -1,5 +1,6 @@
 
 
-This is te start of my
-book is good
-today is sunday
+This is the start of my day,
+the book is good and
+today is Sunday.
+Tomorrow is Monday
